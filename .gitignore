@@ -1,0 +1,10 @@
+node_modules/npid
+node_modules/underscore
+node_modules/shrinkwrap
+node_modules/bower
+node_modules/express
+node_modules/nodemon
+node_modules/node-uuid
+node_modules/ejs
+node_modules/socket.io
+node_modules/.bin
